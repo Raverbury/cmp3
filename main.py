@@ -1,5 +1,4 @@
 import pyaudio
-import wave
 import pydub
 
 filename = "audio/th8_10.wav"
