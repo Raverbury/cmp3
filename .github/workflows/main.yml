@@ -33,6 +33,7 @@ jobs:
           standalone: true
           enable-plugins: pyside6
           disable-console: true
+          onefile: false
           
       - name: Upload Artifacts
         uses: actions/upload-artifact@v3
