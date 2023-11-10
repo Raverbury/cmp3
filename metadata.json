@@ -1,6 +1,50 @@
 {
-  "audio\\th8_10.wav": {
-    "default": ["00:00:00.199", "00:01:56.654"],
-    "but it never starts" : ["00:00:07.138", "00:00:09.977"]
-  }
+    "audio/Love-colored Master Spark.wav": {
+        "Seamless": [
+            "00:00:00.199",
+            "00:01:56.654"
+        ],
+        "But it never starts": [
+            "00:00:07.138",
+            "00:00:09.977"
+        ]
+    },
+    "audio/Reach for the Moon, Immortal Smoke.wav": {
+        "Seamless": [
+            "00:00:02.942",
+            "00:02:52.168"
+        ]
+    },
+    "audio/Voyage 1969.5.wav": {
+        "Eternal": [
+            "00:01:17.110",
+            "00:01:28.951"
+        ]
+    },
+    "audio/U.N. Owen was her.wav": {
+        "Seamless": [
+            "00:00:02.506",
+            "00:02:04.504"
+        ],
+        "But 495% better": [
+            "00:00:30.375",
+            "00:00:55.147"
+        ]
+    },
+    "audio/Continuum Turbulence Intermission.wav": {
+        "Seamless": [
+            "00:00:09.201",
+            "00:01:50.253"
+        ]
+    },
+    "audio/Shattered Connexion Main Enemy Hard.wav": {
+        "Seamless": [
+            "00:00:04.477",
+            "00:01:59.104"
+        ],
+        "But it never starts": [
+            "00:00:00.913",
+            "00:00:15.245"
+        ]
+    }
 }
